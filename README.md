@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NextConfig
+- 👀 I’m interested in Botting
+- 🌱 I’m currently learning python, nodejs and Java
+- 📫 How to reach me ... Discord (!  NextConfig#2967)
